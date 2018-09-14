@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chikuwa.app/</loc>
+  </url>
+  
+  <url>
     <loc>https://chikuwa.app/categories/</loc>
     <priority>0</priority>
   </url>
@@ -10,10 +14,6 @@
   <url>
     <loc>https://chikuwa.app/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chikuwa.app/</loc>
   </url>
   
 </urlset>
